@@ -5,3 +5,4 @@ Employee SQL Folder has three files
 3) Queries SQL file used on pgAdmin for Data Analysis
 
 All six of the CSV files, were also uploaded, that were imported to the individual tables for Data Engineering.
+The three files within the SQL folder were also uploaded individually
